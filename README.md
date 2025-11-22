@@ -1,5 +1,5 @@
 Todo App (MERN + TypeScript)
-
+Link to demo vidoe  : https://drive.google.com/file/d/1ZItUrbH0bskt97TpAvWv4UuCgOSi7CnW/view?usp=drivesdk
 A simple full-stack Todo Management Application built using React + TypeScript (frontend) and Node.js + Express + TypeScript (backend).
 This project includes user authentication, password reset, and secure todo APIs.
 
@@ -19,3 +19,4 @@ This project includes user authentication, password reset, and secure todo APIs.
    4. Added Zustand store for global state
    5. Structured clean folder architecture for scalability
    6.Styled all pages for a simple and neat UI
+ 
